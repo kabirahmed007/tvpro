@@ -84,7 +84,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BD Channels",NANDAN IPTV
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo=”https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/99388655_122441509472012_2041038643119783936_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-5&_nc_sid=dd9801&_nc_ohc=afUbzdbsNM8AX8MwaS7&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8SiunpfSramrwpePdVchUA8dR-DFhGf6qeVdYFrD21Ng&oe=6259E073” group-title="* BD Channels",Time 24
+#EXTINF:-1 tvg-logo=”https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/99388655_122441509472012_2041038643119783936_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-5&_nc_sid=dd9801&_nc_ohc=afUbzdbsNM8AX8MwaS7&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8SiunpfSramrwpePdVchUA8dR-DFhGf6qeVdYFrD21Ng&oe=6259E073” group-title="BD Channels",Time 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.canbangla.tv/public/admin/images/1639590096.jpg" group-title="BD Channels",Can Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
@@ -180,7 +180,7 @@ https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainments",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-name="Rad Bull TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU" group-title="* Entertainments",Red Bull TV
+#EXTINF:-1 tvg-name="Rad Bull TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU" group-title="Entertainments",Red Bull TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Entertainments",Disney Channel HD
 http://103.153.39.36:8000/play/a01y
