@@ -1,0 +1,959 @@
+#EXTM3U
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png",Rtv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png",Somoy News BDCAST
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png",Somoy Tv (YT)
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png",Jamuna TV Bd Cast
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/0hbCzCH/20240818-174544.png",Independent Television
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png",Boishakhi TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/Nt7hhK1/20240815-181346.png",SATV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/P98mF2r/20240815-181318.png",Bangla TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png",Star Jalsha HD
+http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/vv7rV1v/image-Content-11915-j9l5clzs-m1.webp",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png",Colors Bangla HD
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png",Colors Bangla FHD
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png",Jalsha Movies HD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/qkhk4g3/20240816-150730.png",Colors Cineplex SD FHD
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/b3CWhkd/20240816-150721.png",Colors Cineplex Superhit FHD
+http://tv.cloudcdn.me/live.ts?channelId=62413&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png",B4U MOVIE
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png",Goldmines
+http://172.105.123.238:18002/play/a00z
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png",Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/rkmsTgZ/20240817-133855.png",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/1fkFvQL/20240817-133908.png",My Tv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png",RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/1nG471H/20240816-160109.png",Star Gold FHD
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Kids" tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png",Duronto TV
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/V2Qf8Pw/20240817-101441.png",Sony Sab FHD
+http://tv.cloudcdn.me/live.ts?channelId=191&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Sports" tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png",Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfYl0iodbLSHZ87pM9o1_5pY0M66q8L3lJY0eKFT67oTAN1C2mH5iByKg&s=10",Honeymoon 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Honeymoon%20%282018%29%20Bengali%201080p/Honeymoon%20%282018%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMv5pRIo8y9R4rEVIB1H_g2YzqFjo41K5BOdIJiplI_gIsAeS_J8f3zOH&s=10",Desamuduru-Kheloyar (2023)
+https://rty67.b-cdn.net/upload/videos/2023/09/[Fibwatch.Com]Desamuduru.Kheloyar.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",K.G.F: Chapter 2 2022
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/K.G.F-%20Chapter%202%20%282022%29%20Hindi%20Dubbed%20WEBRip%201080p/K.G.F.Chapter.2.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4abdc7292d43ac6a7bbedb3c24ca9cd1e90995546ed62e9d5a9fecbaae0cce7c.jpg",Temper 2015
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Temper%20%282015%29%20%5BDual%20Audio%5D/Temper%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGasp6czaKZN35O6oON3mdqL66s4or4Pfjhw07IxBTUSVNXgjAGdqL3k&s=10",Bagh Bandhi Khela 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Bagh%20Bandi%20Khela%20%282018%29%20Bengali%20Movies%201080p/Bagh%20Bandi%20Khela%20%5B2018%5D%20Bengali%20Movies%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20DD%20-%202.0%20%5BCinemaghar%5D%20.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb33WQinGEBrZC6U_odj8yQh0PQgnFu9cKFdFKIBWy38QCMOB-56wca_I&s=10",Chalbaaz 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Chalbaaz%20%282018%29%20Bangla/Chalbaaz%20%282018%29-1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0MjE1ZDYtZTdkMy00MDdhLTg1ZTgtZDg4ODBiMTYxYzU0XkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_.jpg",Haami 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Haami%20%282018%29%20Bengali%201080p/Haami%20%282018%29%20Bengali%201080p%20WEB-DL%20x264%20AAC%20EvAn.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1jX_zwSyMCjEfO7Wt6kvMqItH8KeMzFYA2ouootoiLHLl-zDz56GQl_J&s=10",Hoichoi Unlimited (2018)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Hoichoi%20Unlimited%20%282018%29%20Bengali%201080p/Hoichoi%20Unlimited%20%5B2018%5D%20Bengali%20Movie%20%201080p%20Webdl%20x%20264%20AVC%20AAC%20DD-2.0%20%5BCinemaghar%5D%20-%201ST%20ON%20NET.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lNbaXCVBBsuDHdDtqEf3eT22WIymzpjVGXy98hAmDqAz8rqnlNRDRYf9&s=10",Raja Rani Raju 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Raja%20Rani%20Raji%20%282018%29%20Bengali%20720p/Raja%20Rani%20Raji%20%282018%29%20Bengali%20720p%20Untouched%20WEBHD%20AAC%20-%201.8GB.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_3GXg0OQhP0JflKeSbvbhTwY7L9cFcBNuCZsp7cEKcf3s2kTbCtewNjQ&s=10",Total Dadagiri 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Total%20Dadagiri%20%282018%29%201080p/Total%20Dadagiri%20%282018%29%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFTNSJuP9jQMefjIHwBbQPJHAAjqFj5OUalv7JicZ0d3pdRx0l9n8yFA&s=10",Sultan: The Saviour 2018
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL/Sultan.The.Saviour.2018.1080p.DS.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLEJcj8MVif4Ggo0Doo-fJZeCI1eVFWcN4WxrvqXigaz6WGfKRYyZ26DU&s=10",Badsha – The Don 2016
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Badsha%20the%20Don%20%282016%29%20Bengali%201080p/Badsha%20the%20Don%20%282016%29%20Bengali%20TRUE%20UNTOUCHED%20%E2%80%93%20WEB-DL%20%E2%80%93%201080P%20%E2%80%93%20x264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0n-ZDiJgcXxRifolFxWEZlGrh1uaZYuwHUJYgZ82ED8Nd-LH2ozg96y_&s=10",Khoka 420 2013
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Khoka%20420%20%282013%29%201080p%20WEB-DL/Khoka%20420%20%282013%29.WEB.DL.1080p.H264.Bengali.DDP.5.1.Hindi.AAC.2.0.ESUB.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFyaQjXZveLFlpHuV4FP1b75X9cI-3ICKhm_UNDzgMn67SY9FCAY_2Yo&s=10",Khoka Babu 2012
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Khokababu%20%282012%29%201080p%20WEB-DL/Khokababu.2012.1080p.AMZN.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPMWgrBWVZJzVCriEcZPbkvyZdjEw6ngAdcCuNJsQ_L-gXHaPewFfHS8&s=10",100% Love 2012
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/100%25%20Love%20%282012%29%20720p/100%25love.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/It_is_the_poster_of_the_film_Bojhena_Shey_Bojhena.jpg",Bojhena Shey Bojhena 2015
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29%20Bengali%201080p/Bojhena%20Shey%20Bojhena%20%282012%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OkUzNOBYzuS4mBkht6dsRXhxm3lySVyy_aBud00VLlwJ_VS4Xe12pBNd&s=10",Challenge 2 2012
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Challenge%202%20%282012%29%20Bengali%20WEB-DL%201080p/Challenge.2.WEB-DL_1920x1080.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnysAkG7_LuCQCHa4JzTCg-f1xTb-ylzd29wVYHJj1Q1HCwOucX1b2BAHZ&s=10",Idiot  2012
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Idiot%20%282012%29%20Bengali%201080p%20WEB-DL/Idiot.2012.1080p.AMZN.WEB-DL.264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Romeo_-_2011_Movie_Poster.jpg",Romeo  2011
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282011%29/Romeo%20%282011%29%201080p%20WEB-DL/Romeo%20%282011%29%20Bengali%201080P-.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSvPnBt3g3p7lyXQ-bFLAhwayXeVnU8mrlyZciES3i4UoDSt-oZCsxAC2&s=10",MLA Fatakesto  2006
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282006%29/M.L.A.%20Fatakesto%20%282006%29/MLA%20Fatakesto%20%282006%29-1080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://i.ibb.co/MfdTJbg/ilu-1719410298327.jpg",I Love You  2007
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282007%29/I%20Love%20You%20%282007%29%20Bengali%201080p%20WEB-DL/I.Love.You.2007.1080p.AMZN.WEB-DL.DDP.2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckDtWvmODksZ2xri8DOGSNYcaOnYGx_P4gjmWBGDXwwLzBuSPHFHPihc1&s=10",Chirodini Tumi Je Amar 2008
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Chirodini%20Tumi%20Je%20Amar%20%282008%29%20Bengali%201080p/Chirodini%20Tumi%20Je%20Amar%20%282008%29%20Full%20Movie%201080p%20HD%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Challengefilm.jpg",Challenge 2009
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282009%29/Challenge%20%282009%29%20Bengali%201080p%20WEB-DL/Challenge.2009.1080p%20WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjwvGUb6nW-rSs45Os5f-wrNWyL2ZBZMbSuPw5fZ3TB2kEMyqHg1tjpU&s=10",Bachchan 2014
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282014%29/Bachchan%282014%29%20Bangla%201080p/Bachchan%282014%29%20Bangla%20Movie%201080p%20HD%20%20WEB%20DL%20.MP4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuILW0VyL-ul_G-LCrLw7mFByh9Yypk4ACBbv1NVUc9HHt9lNIr-SIfI&s=10",Deewana 2013
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPijE_sVtJCNczCzDXCwbe7fB31Av1FT7WMhEyzFkFj1PMSn3Nza-o_Yo&s=10",Bangali Babu English Mem 2014
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282014%29/Bangali%20Babu%20English%20Mem%20%282014%29%20Bengali%20WEB-DL%201080p/Bangali.Babu.English.Mem.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Besh_Korechi_Prem_Korechi.jpg",Besh Korechi Prem Korechi (2014)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXw6dDR0GEzHBtgr3Dczc-gn5uhm_hHEHAu2A1Qf5RCEzCoXvKQk42iB2&s=10",Bibaho Obhijaan 2019
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Bibaho%20Obhijaan%20%282019%29%20Bengali%201080p/Bibaho%20Obhijaan%202019%20Bengali%201080p%20WEB-DL%20x264%20AAC%20%7B%20TaRa%20%7D.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Baazi_film_poster.jpg",Baazi 2021
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Baazi%20%282021%29%201080p%20WEB-DL/Baazi.2021.1080p.WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpVJkIAlI07D44JLwO47dhW3Rx7Zx8WM2DvR6SqPOnZBOrIvwNUULtX-T&s=10",Abar Bibaho Obhijaan 2023
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Abar%20Bibaho%20Obhijaan%20%282023%29%20Bengali%201080p%20WEB-DL/Abar%20Bibaho%20Obhijaan%20%282023%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCA8j0LqSJWVmm8TGV2UttvAGBRUFNEiEmKY7JDQ__NCTB9W1ZYms6Wc&s=10",Mr. Majnu 2019
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282019%29/Mr.%20Majnu%20%282019%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Mr.Majnu.2019.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirJchtBmeNyqat5_pmsFcrzYw7q7ovN_q5B0NEV7CZKqWKaBUDMYE9Tlg&s=10",Master 2021
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282021%29/Master%20%282021%29%20Hindi%20Dubbed/Vijay%20The%20Master%20%282021%29%20Hindi%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%204.4GB.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDWFB-Gj8Bjd-CbczOMYSG9LWbil2wleKruoKWildyah2L13RYPts3zXp&s=10",Republic 2021
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282021%29/Republic%20%282021%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Republic%20%282021%29%20South%20Hindi%20Dubbed%20WEB-DL%201080p%20ESub.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGnwVDXbn3qJl0DhHK15FFcjH633b95JpSz-NRbwjcflj-0OGKjR5rzM&s=10",Sarrainodu 2016
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282016%29/Sarrainodu%20%282016%29%20Hindi%20Dubbed/Sarrainodu%20%282016%29%201080p%20Hindi%20Dubbed.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBgbGobLkqtnyBsbFWF7kdiMgxbs4LOJDE3-bzydIM6bRj5YFDahCItA&s=10",Jai Bhim 2021
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282021%29/Jai%20Bhim%20%282021%29%20720p%261080p/Jai%20Bhim%20Hindi%20%282021%29%201080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR News" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png",News 24 HD
+http://176.119.29.52/live.ts?channelId=107&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9z7jnlaPOBrM2YSIs8FIB38e3r1Ak_JHrb759yvZ9XYyf9RRSdS_KbP5&s=10",Coolie No. 1 1995
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1995/Coolie%20No.%201%20%281995%29%201080p%20WEBRip/Coolie%20No.%201%201995%201080p%20WEBRip%20AAC%20x264.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgIs404e4drN4b8K_Us_-RB-NDtdDBP_GdUuYMZ4rdmu5wi-2dUUS_7Ah&s=10",Street Dancer 3D 2020
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Street%20Dancer%203D%20%282020%29%201080p%20WEBRip/Street.Dancer.3D.2020.1080p.3D.WEBRip.HSBS.x264-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaHl2VScNvgxyozcGYzRgm7x4AnG3YMYtYqwe438Sv9qY7-FQL4uritnBC&s=10",Jawan 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Jawan%20%282023%29%201080p%20WEBRip/Jawan.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7f6h9WVcesp9b2HsmyT_Q0EjfkIQaMoRTI5YaRY1VfF17w9WoCdF9pSK&s=10",Rocky Aur Rani Kii Prem Kahaani 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaani%20%282023%29%201080p%20WEBRip/Rocky.Aur.Rani.Kii.Prem.Kahaani.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Hacked_film_poster.jpg/220px-Hacked_film_poster.jpg",Hacked 2020
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Hacked%20%282020%29%20Hindi%201080p%20WEB-DL/Hacked.2020.Hindi.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUc7tx4d7PIWwdllkgugDaTtxdu-8j8AhGr5iMYKuFUg5nsTtVGhTN5_s-&s=10",Hera Pheri 2000
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Hera%20Pheri%20%282000%29%20HINDI%201080p%20WEBRip/Hera.Pheri.2000.HINDI.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16j1boWfZinjkZ0GpBMsOMc--iOtW_cdJSL8J_XUpwenvSt7UV92FA-zh&s=10",Phir Hera Pheri 2006
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Phir%20Hera%20Pheri%20%282006%29%201080p%20WEBRip/Phir.Hera.Pheri.2006.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xmYK8UMSeT5qdgv9DdqpzJsshlFOd4oxbO87M4EEiPzhUJbryLU_tCg&s=10",Bengal Tiger (4K) 2015
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bengal%20Tiger%20%282015%29%20%284K%29%20Hindi%20Dubbed/Bengal%20Tiger%20%282015%29%20-%204K%20UHD.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4iucG_FTDaGn3h9gWmQXKBM8vXvTdtS6h8Ywqsz-94lU1IW-oRj3S5Tr&s=10",Yevadu (4K) 2014
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Yevadu%20%282014%29%202160p%20%284K%29%20Hindi%20Dubbed/Yevadu%20%282014%29%202160p%20Hindi%20Dubbed%20WEB-DL%20DD%2B2.0%20H264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-rSnN0mT0XWOuQCG3QoYI6zfJvLUikypaMQ6_yWNVApkyGU1QXNAUFx4&s=10",Love Express (2016)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.com]Love.Express.(2016).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzHGZsd_Br6gi5TXMXfx7YoLQmomLJDB_IZH7AJE3Xogvky--F6m6FH0I&s=10",Kelor Kirti 2016
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Kelor%20Kirti%20%282016%29%20720p/Kelor%20Kirti%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Power_%282016_film%29.jpg",Power (2016)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Power%20%282016%29%201080p%20Bangla/Power%20%282016%29%201080p%20Bangla.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LhQZtX5cz7TOZp5ADl8EdcRTPANFId7wpDwy5PMeqBqA0dm7NNVrU_k&s=10",RRR (4K) 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyf7YD-8cTbklJcGY84LsYIR9b_u83Nz-uMDeqYbf8Bw2hWWgpkfzIxQ&s=10",Yevadu 3 2018
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/2018/Agnyaathavaasi%20%282018%29%201080p%20Hindi%20Dubbed/Agnyaathavaasi%20%282018%29%201080p%20Hindi%20Dubbed%20Full%20Movie%20-%20Pawan%20Kalyan%2C%20Keerthy%20Suresh.MP4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",777 Charlie 2022
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/777%20Charlie%20%282022%29%201080p%20WEBRip%20%5BHindi%20Dubbed%5D/777%20Charlie%202022%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDXGjzERmuH8h34CHTBYHwiXoJh4rParEUdBIc7DKUMIytVfNzIE4Tdk9&s=10",Tu Jhoothi Main Makkaar 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Tu%20Jhoothi%20Main%20Makkaar%20%282023%29%201080p%20BluRay/Tu.Jhoothi.Main.Makkaar.2023.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yR4zHVbYz8HoNP1u1etKHBu0VEV-ED5CuAwrJziwxgJ_usgNP0wtMqk&s=10",Good Newwz 2019
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Good%20Newwz%20%282019%29%201080p%20WEBRip/Good.Newwz.2019.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Kabir_Singh.jpg",Kabir Singh 2019
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Kabir%20Singh%20%282019%29%201080p%20WEBRip/Kabir.Singh.2019.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcf13WrnhQREIzgFoa7hTS3tQ1KiFpU60jslVGAuNu-xA3ZyDK1rCpY4&s=10",Jugjugg Jeeyo  2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Jug%20Jugg%20Jeeyo%20%282022%29%201080p%20WEBRip/Jug.Jugg.Jeeyo.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgyXsIRKt1Ma-vms8shIRRD89n3e5ONQgoGM6NGHf-mIfK8crFjmUXlw&s=10",Bachchhan Paandey 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Bachchhan%20Paandey%20%282022%29%201080p%20WEBRip/Bachchhan.Paandey.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkiTLsq-gstrlCVhcOalYLD8G_7VLl1_asA6uFS-w7QhLzYhHhaJoq-HY&s=10",Bhool Bhulaiyaa 2 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Bhool%20Bhulaiyaa%202%20%282022%29%201080p%20WEBRip/Bhool.Bhulaiyaa.2.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C8u6CukWuxFAVkrHpjmtNfWcJQ-lIY1TJEF0RUHrIRlQMoftoaCLYINT&s=10",Babli Bouncer 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Babli%20Bouncer%20%282022%29%201080p%20WEBRip/Babli.Bouncer.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-eUvZr0flOSfXVJxq5T2AUQLQunhqJoS1WWSi8XDoxCuak0u27N5idDD&s=10",Bhediya 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Bhediya%20%282022%29%201080p%20WEBRip/Bhediya.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSioGLsH4EGu2_BDzpeT2Ngr1P5JGDVyBdR-pIxj-U5CAaPqqOn6EhS0&s=10",India Lockdown 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/India%20Lockdown%20%282022%29%20Hindi%201080p%20WEB-DL/India.Lockdown.2022.1080p..WEB-DL.Hindi.AAC2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzOWUzN2UtOWI2OC00OWVkLWJjZTEtN2YxNzM4NjM5MzQ3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",Satyaprem Ki Katha 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Satyaprem%20Ki%20Katha%20%282023%29%201080p%20WEBRip/Satyaprem.Ki.Katha.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDjO10g990aTobntWDh-B7lGSRbphI2V19yPTD_FdKWOX9hTYJbWdiYl&s=10",Laxmii 2020
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Laxmii%20%282020%29%201080p%20WEBRip/Laxmii.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Zara_Hatke_Zara_Bachke.jpg/220px-Zara_Hatke_Zara_Bachke.jpg",Zara Hatke Zara Bachke 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Zara%20Hatke%20Zara%20Bachke%20%282023%29%20Hindi%201080p%20WEB-DL/Zara.Hatke.Zara.Bachke.2023.1080p.Hindi.WEB-DL.DD5.1.ESub.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX The Great Indian Kapil Show S01" tvg-logo="https://i.ibb.co/JcH7Fct/6-LWt-Sm2-VHfen-FBMvmj-G9-GYgfv-Sd.jpg",Episode S01EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/The%20Great%20Indian%20Kapil%20Show%20%28TV%20Series%202024%20-%20%29/Season%2001%201080p%20Hindi/The.Great.Indian.Kapil.Show.S01E05.Aamir.Unlimited.1080p.NF.WEB-DL.DDP5.1.mp4
+#EXTINF:-1 group-title="SR BDIX The Great Indian Kapil Show S01" tvg-logo="https://i.ibb.co/JcH7Fct/6-LWt-Sm2-VHfen-FBMvmj-G9-GYgfv-Sd.jpg",Episode S01EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/The%20Great%20Indian%20Kapil%20Show%20%28TV%20Series%202024%20-%20%29/Season%2001%201080p%20Hindi/The.Great.Indian.Kapil.Show.S01E07.Diamonds.of.Heeramandi.1080p.WEB-DL.DDP5.1.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX The Great Indian Kapil Show S01" tvg-logo="https://i.ibb.co/JcH7Fct/6-LWt-Sm2-VHfen-FBMvmj-G9-GYgfv-Sd.jpg",Episode S01EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/The%20Great%20Indian%20Kapil%20Show%20%28TV%20Series%202024%20-%20%29/Season%2001%201080p%20Hindi/The.Great.Indian.Kapil.Show.S01E09.1080p.NF.WEB-DL.DDP5.1.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP01
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E01%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP02
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E02%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP03
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E03%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP04
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E04%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E05%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP06
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E06%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E07%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E08%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E09%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E10%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP11
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E11%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP12
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E12%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP13
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E13%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP14
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E14%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP15
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E15%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP16
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E16%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP17
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E17%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP18
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E18%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP19
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E19%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP20
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E20%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP21
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E21%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP22
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E22%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP23
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E23%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP24
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E24%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP25
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E25%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP26
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E26%20WEBRip%201080p%20X264.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S13" tvg-logo="https://i.ibb.co/CW7gXkH/Ug4dd-MM-1-2024-08-21-T221404-859.png",Episode S13EP27
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2013/Khatron%20Ke%20Khiladi%20%282023%29%20S13E27%20WEBRip%201080p%20X264%20%28Grand%20Finale%29.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://i.ibb.co/xgjz872/rstc-An-Be-Ckx-NQj-Np3-YXr-F6-IP1t-W.jpg",Kalki 2898-AD 2024
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282024%29/Kalki%202898%20AD%20%282024%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Kalki.2898.AD.Hindi.2024.1080p.NF.WEB-DL.DDP5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ0Edxkg2Wg4AcRjcSYlyFqfmgszMRXozTLfO0VtdPZXQaNsBW0-pS8I&s=10",Pagalpanti 2019
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Pagalpanti%20-%202019%20-%201080p%20Hindi/Pagalpanti.2019.1080p.AMZN.WEB-Rip.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRsWAgWEWXIzG5DbMDF_V6I5PZMWOWoJ5KdbpApIHtEzjsmy35obXJlXD&s=10",Pati Patni Aur Woh 2019
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Pati%20Patni%20Aur%20Woh%20%282019%29%201080p%20WEBRip/Pati.Patni.Aur.Woh.2019.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLGz46lRZogpTJ0iNSEewapFK1WYzi81cCXDv2DonctejatghsGV6TOs&s=10",Mimi 2021
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Mimi%20%282021%29%201080p%20WEBRip/Mimi.2021.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw_jtKPpFC6RHV__xFGru3WBOG5yQCjbLfruxTOaLRhvMP4budjWv-3Q&s=10",BIGG BOSS 16 GRAND FINALE
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2016%20720p/Season%2001%20720p/Bigg.Boss.S16.Grand.Finale.1080p.VOOT.WEB-DL.AAC.2.0.H264-OlaM.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajcCb1ZJkmlx0_54QUwn2mTVj3N3TYelmccbRYgO8VCuxE41nAtSudrJ_&s=10",BIGG BOSS 17 GRAND FINALE
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E106.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSru7b6P7Sj5CpPfDGUSFBxPt03pn6_WY2UfBf7TJvcMPkNBV9b6mNA4cc&s=10",BIGG BOSS OTT 1 GRAND FINALE
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20OTT%20%28TV%20Series%202021-%29/Season%2001%201080p/Bigg.Boss.OTT.S01.E42.Grand.Finale.1080p.VOOT.WEB-DL.AAC2.0.x264-Telly.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLD18TCiPTH9HnZDaKeoRAA1y95zsIkdlnH2de8pYmEeAxLmdplmkkzi7&s=10",BIGG BOSS OTT 2 GRAND FINALE
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20OTT%20%28TV%20Series%202021-%29/Season%2002%201080p/Bigg%20Boss%20OTT%202023%20S02E59%201080p%20WEB-DL%20H264%20%28Grand%20Finale%29.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjZGRmNzktMDY5ZC00ZTMzLWFkOTYtN2EzN2FmYzAyZWZlXkEyXkFqcGc@._V1_.jpg",BIGG BOSS OTT 3 GRAND FINALE
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20OTT%20%28TV%20Series%202021-%29/Season%2003%201080p/Bigg%20Boss%20OTT%20Season%203%20Episode%2043%20Grand%20Finale.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXhJHPwuJmUhnUBCbuv363oKnT-03IdCwtj5jONhbrDkvBgw0XjXF4KFT&s=10",FIFA World Cup Final (2022)
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Final%20%282022%29/FIFA.World.Cup.2022.Final.Argentina.vs.France.1080p.DS4K.10bit.English.HEVC.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2vG9f72u_1iwXwpuhN9Uz5bvt0ZBJrg0tdxArZxovTcGqOZBtxq1yRt0&s=10",Zee Cine Awards 2023
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Zee%20Cine%20Awards%20%28TV%20Serial%20-%202023%20%29%20Hindi%20720p%20HDRip/Zee.Cine.Awards.2023.720p.Zee.Cine.Awards.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yRt1ZbF94u9hOitqsVMy3Ft3AgR-Qqrf2MFEKv_KQe4qKK-KZx4Z7qk&s=10",Zee Cine Awards 2024
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Zee%20Cine%20Awards%20%282024%29%201080p%20WEB-DL/Zee%20Cine%20Awards%20%282024%29%20Main%20Event%20Hindi%20Zee5%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxY1LjMfnhZv2USqzONFK34t-mOn6JLrgpW0oL-OtUDGXsuynJ5cF3cGu&s=10",Zee Cine Awards 2020
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Zee%20Cine%20Awards%20%282020%29%201080p%20WEB%20DL/Zee%20Cine%20Awards%202020%20-%20Main%20Event.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELOnjzfxIcpvi6rgiMSe1RtGTvNz8tJ4ILx0UY7G2ruJN-qc9R9PYDP0&s=10",Umang (2022)
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Umang%20%282022%29%20TV%20Show/Umang.2022.S01E01.Umang.2022.1080p.SONYLIV.WEB-DL.Hindi.AAC2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY0_bWwlQYid4GFVXoPP-2Uq4tg9xCrfN1B9pORBZi8J867tuzO3xOSM&s=10",Star Parivaar Awards (2023)
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Star%20Parivaar%20Awards%20%282023%29%20Hindi%201080p%20WEBRip/Star.Parivaar.Awards.2023.Hindi.1080p.WEBRip.mp4
+#EXTINF:-1 group-title="SR Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFapsqEnH4ZW-m2B9IA_u3vsW75swXetU1LP08OCbUVh7HxUKc6ofK77Yv&s=10",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5FmH_WHpUcn-U5mgmk59TgHA738cFTnBk7TmbAPHA2kxbMzrC3UrsSxx&s=10",Premer Kahini (2008)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Premer%20Kahini%20%282008%29%20Bengali%201080p/Premer%20Kahini%20%282008%29%20Bengali%201080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9m6yhZAE0qqZL8VNfVX7zXZ4SB3PWX1IjEVR0jo7M2TJ0KD3JlrQEcMXC&s=10",Shedin Dekha Hoyechilo (2010)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Shedin%20Dekha%20Hoyechilo%20%282010%29%201080p/Sedin.Dekha.Hoyechilo.2010.1080p.WEB-DL.DD.5.1.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP01
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%201.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP02
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%202.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP03
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%203.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP04
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%204.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%205.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP06
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%206.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP01
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E01.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP02
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E02.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP03
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E03.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP04
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E04.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E05.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP06
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E06.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E07.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E08.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E09.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co/gdkmbPJ/3x4-1722094497876.jpg",Episode S14EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E10.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw74QRAbzGt_qFgr03Pa3K3XgZWuPccoi5W8zsVU76SDr-GgzIsZhuaBY&s=10_V_TTW_.jpg",Chhatriwali (2023)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Chhatriwali%20%282023%29%201080p%20WEBRip/Chhatriwali.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZ2ZKDSAvOcxBTAnGopDM3iPiFBApIfH_zlJWJKIJxjDHtgJ5IhpMBkc&s=10400._RI_V_TTW_.jpg",Janhit Mein Jaari (2022)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Janhit%20Mein%20Jaari%20%282022%29%201080p%20WEBRip/Janhit.Mein.Jaari.2022.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzva18XVoM_XCwGU7Pn4vJJnNvjwJ2_Ondc8q5-UfmJZuWxHu9ncIyA0&s=10",Rangbaaz 2013
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Rangbaaz%20%282013%29%20Bengali%20WEB-DL%201080p/Rangbaaz.2013.1080p.WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9KveF19_pxZjv_ZgUPhNBEYpk0sOfvDxnA1KcXRwmvL2wmDuEqXr50Y&s=10",Bairavaa (2017)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Bairavaa%20%282017%29%20%5BDual%20Audio%5D/Bairavaa%20%282017%29-1080p.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEyYTEyOGEtMjZjNC00MGEwLWFkMzItZDFhNDYzMTQwMzllXkEyXkFqcGc@._V1_.jpg",Annaatthe (2021) 4K
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282021%29/Annaatthe%20%282021%29%202160p/Annaatthe.2021.2160p.SNXT.HYBRID.HINDI.TAMIL.WEB-DL.DDP.ATMOS.5.1.HEVC-Telly.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="group-title=",Romeo Juliet (2015) FTP
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Romeo%20Juliet%20%282015%29%20720pHindi%20Dubbed/Romeo%20Juliet%20%282015%29%20720pHindi%20Dubbed%20-%20Jayam%20Ravi%2C%20Hansika%20Motwani%2C%20Poonam%20Bajwa.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGoslp83Qm9lkYg-ijEWdm5Vd9OQnsZkq_vp-hvEdpqisXuHR6g5Gxf4&s=10",Touch Chesi Chudu (2018)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29/Touch%20Chesi%20Chudu%20%282018%29%20WEB-DL/Touch%20Chesi%20Choodu%20%281080p%29%20.mp4
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwR86jHJIVJLgC6sRp46_M3giz_Uo3MRMStgocnMKCHcwVmUgfz--Juv1&s=10",Jalsha Movies SD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlefEHWJRZS7es0fhGPOts3whGzl1YquG0HJFxYW5wZ2N-9Ce435f0lSmw&s=10",remo (2016)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282016%29/Remo%20%282016%29%20720p%20Hindi%20Dubbed/Remo%20%282016%29%20Hindi%20Dubbed%2CSivakarthikeyan%2C%20Keerthy%20Suresh%2C720p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmuWSMoA5i7wKGpueWbhbD3S0KumO2v3LxAnc3gODMjJxQW1j53L9u3wJ&s=10",Sarkaru Vaari Paata (2022)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/Sarkaru%20Vaari%20Paata%20%282022%29%201080p%20WEB-DL%20%5BDual%20Audio%5D/Sarkaru.Vaari.Paata.%282022%29.DUAL.1080p.DS4K.WEBRip.10bit.DD.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ke-N3P-bsJQk_ERXytvaKRobo6yhJbGtVoVanOvtjbhhzWC6M-CjWhw&s=10",Amanush 2 (2015)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Amanush%202%20%282015%29%20Bengali%201080p/Amanush%202%202015%20%5BBengali%5D%20Untouched%201080p%20WEB-DL%20x264%20AAC-%20Hon3yHD.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h93FmBDDCZmHdpLtt9TYrZsGCoReC45eGeq-f4KVVWR4sijgsWFIcWE&s=10",Amanush (2010)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/AMANUSH%20%282010%29/Amanush.2010.1080p.AMZN.WEB-DL.DDP2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nbYjLtnsb5mI1w-XsFtDiyui5vsGvpZrZAFGwev1GncvC0gNnAWNW8E&s=10",Dui Prithibi 2010
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Dui%20Prithibi%20%282010%29%20Bengali/Dui.Prithibi.2010.Bengali.1080p.AMZN.WeB.DL.DDP5.1.H264.Esub.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY4c4UVk8U8nkuJMjAar8wpRUdCqW3xbbl7n8FWUfxrQvt2Ej6sy0fP6X&s=10",Gangster 2016
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Gangster%20%282016%29%201080p%20WEB-DL/Gangster.2016.1080p.WEB-DL.DDP2.0.HEVC.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTSetQhRSLKa_jwgqn7ZQGaPMVFmYHIRbwrJY3bSt2ZsNjLEFMbySbAMw&s=10",Haripada Bandwala (2016)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Haripada%20Bandwala%20%282016%29%201080p/Haripada%20Bandwala%20%282016%29%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgYwYRfTc8qC3WDxSfUEQe3fT-h10gN2G82hDLI05r0Nk5h5TZhvEyuZhY&s=10",Mon Je Kore Uru Uru 2010
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Mon%20Je%20Kore%20Uru%20Uru%20%282010%29%20Bengali%20WEB-DL%20720p/Mon%20Je%20Kore%20Uru%20Uru-ftpbd.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon2JhcKyFB7GA1b5reyLMtPRIiWSiTT_7sMXygO2-AaaNPiEWRwvkPIkH&s=10",Baccha shoshur (2019)
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Baccha.Shoshur.(2019).Bengali.Zee5.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf29INTIpZPJdQ94fl56RPZH0C1Plitq6h2kgzJojxifFNaFOT7n5cgcPk&s=10",Tomake Chai (2017)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvmWt-21WOtZFsSXrm14kb1H_caMQSQsrwoRRWJY4qOQBR3je6pIoQJnL&s=10",Shudhu Tomari Jonyo 2015
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Shudhu%20Tomari%20Jonyo%20%282015%29%20Bengali%201080p/Shudhu%20Tomari%20Jonyo%20%282015%29%20%5BBengali%5D1080p%20WEB-DL%20x264.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEyr-zN4bLmuAAeeKe5wSAL0JZzkc8n1evYcTvGNtalkqR0KAX6fmQQY&s=10",Raju Gari Gadhi 2 2017
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Shiva%20The%20Super%20Hero%203%20%282017%29%20%5BDual%20Audio%5D/Shiva%20The%20Super%20Hero%203%20-%20New%20Horror%20Hindi%20Dubbed%20Movie.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfRA0y_tHMciJFusGPfS9uVST7OT8GXoyLNZNIBMmyiAzso6Q8lL-Akuk9&s=10",Singam 2010
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282010%29/Singam%20%282010%29%20%5BDual%20Audio%5D/The%20Fighterman%20Singham%20%28Singam%29%20Tamil%20Hindi%20Dubbed%20Full%20Movie%20-%20Suriya%2C%20Anushka%20Shetty.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1zcM1JvPFxlV5HoTOfs1kUeLnV9Owde5bF99yl-9EP2GwaTDmq8pZAc&s=10",Shehzada 2023
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2023/Shehzada%20%282023%29%201080p%20WEBRip/Shehzada.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHKlFUd-m-5fs2bPx-yFoy6QM6BBw7-eaY9KbDlGfhr-Dy_m9RNkEvyA&s=10",Magadheera 2009
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282009%29%20%26%20Before/Magadheera%20%282009%29%20%5BDual%20Audio%5D/Magadheera%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitDxrgZKGJPe4pwJwB3n4zozMVRMZwGI0A7HahgqsB39qlIAt62Zf_aIN&s=10",Sita 2019
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282019%29/Sita%20%282019%29%20%201080p%20%20%5BDual%20Audio%5D/Sita%201080p%20UNCUT%2010BIT%20HEVC%20HD.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FFBY8O7eR2E7XyasTUKnuPB1rjRmDwDka30m5hjloI0LmYz3quoT-Wg&s=10",Kavacham 2018
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29/Kavacham%20%282018%29%201080p%20Hindi%20Dubbed/Kavacham%20%282018%29%201080p%20Bellamkonda%20Sreenivas_%20Kajal_%20Neil%20Nitin.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXMlUXjiOJWjX3Ek4AvNy191h1W1h6OUsEuNVtpGyOXVYzK4NEekbizY&s=10",MLA 2018
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/2018/MLA%20%282018%29%201080p%20Hindi%20Dubbed/MLA%20%282018%29%201080p%20Hindi%20Dubbed%20Movie%20Nandamuri%20Kalyanram%2C%20Kajal%20Aggarwal.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sWPZYbb5za3BkZjym5XKMthhtDamPZXTOZnQispjfW-Ip4OHmCh4mVGI&s=10",Adhurs 2010
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282010%29/Adhurs%20%282010%29%20%28Hindi%20Dubbed%29/Adhurs%20%282010%29.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNqb16H-UCnuDDSrpb-Nu0L7Cb0zbdioVZzU9fgyPPqiPVH55xYPbrbc3&s=10",Munna Bhai M.B.B.S. (2003)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Munna%20Bhai%20M.B.B.S.%20%282003%29%201080p%20BluRay/Munna.Bhai.M.B.B.S..2003.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucoy-vNzWSxCs_xRRletVgf7-vxItqKBoQL24ZObG6n0NUw2NUxJOL6M&s=10",Raatchasi (2019)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282019%29/Raatchasi%20%282019%29%201080p%20Hindi%20Dubbed/Madam%20Geeta%20Rani%20Raatchasi%202019%20Hindi%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbFwM7CRmTnTNz8rjqv_ETg8ARpZlp8a9E2EQaZnuWpWA781AN3Ka2SSA&s=10",Hungama 2 (2021)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Hungama%202%20%282021%29%201080p%20WEBRip/Hungama.2.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_kh4r89ixWd809BIgGNmzqcs-nZo4w3yqTgDYRj71XQdwgk7hnWlGtw&s=10",A Aa (2016)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282016%29/A%20Aa%20%282016%29%201080p%20WEBRip%20%5BDual%20Audio%5D/A%20Aa%202016%20WebRip%20UNCUT%201080p%20Hindi%20DD%205.1%20Tamil%202.0%20AAC%20x264.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdlMTNhNTktYzBjMy00ODliLWE4YWEtNmZiNGE4ODFmNzQwXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",Guntur Kaaram (2024)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282024%29/Guntur%20Kaaram%20%282024%29%201080p%20WEB-DL%20%5BDual%20Audio%5D/Guntur.Kaaram.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqmTXj7AByRlRotcISqbgCipgTZCZqMeLCwPEEugKJek5_VvNBlj7vrR_&s=10",Sarileru Neekevvaru (2020)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Sarileru%20Neekevvaru%20%282020%29%201080p%20WEB-DL%20%5BDual%20Audio%5D/Sarileru.Neekevvaru.2020.Dual.1080p.New%20.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDSM01Wt1_VIAddtzAj7poE0xZT7wh8zPzpfs3xSHL8IE1ws8rhlOGuc&s=10",Bharat Ane Nenu (2018)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282018%29/Bharat%20Ane%20Nenu%20%282018%29%20Hindi%20Dubbed%201080p/Bharat%20Ane%20Nenu%20%282018%29%20Hindi%20Dubbed%20WEB-Rip%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNDZaclej5B9A7H-haTa6VacM4xeN5atfOTrfBIrAGUvlzvhnREfh8HA&s=10",Varisu (2023)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Varisu%20%282023%29%20WEB-DL%20%5BHindi%20Dubbed%5D/Varisu%20%282023%29%20Dual%20ORG%204K.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYJrofKADSoF_MahLdoATBNXz23vMiNzfu-48C5xUG-Sjv_q8OFEdHNs&s=10",Miss Shetty Mr Polishetty (2023)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Miss%20Shetty%20Mr%20Polishetty%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Miss%20%20Shetty%20Mr%20%20Polishetty%20%282023%29%20Hindi%20WEB-DL%201080p%20HEVC%20EAC3.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnTNlCa7YD6H-8RkmZt0o18-9ETlBBf38SP1dC6TTB_cYf8irqrc7_jg&s=10",Katha Nayagan 2017
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Katha%20Nayagan%20%282017%29%20720p%20Hindi%20Dubbed/Katha%20Nayagan%20%282017%29%20720p%20New%20Released%20Hindi%20Dubbed%20Full%20Movie%20-%20Vishnu%20Vishal%2C%20Soori.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 01
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E01.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 02
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E02.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 03
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E03.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 04
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E04.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 05
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E05.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 06
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E06.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 07
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E07.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Farzi 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU4rNYg7PnL9ObfeIp13BrnGVQ60It32qRgnKSAyGTCeIg2UHZxhDnhlOZ&s=10",Episode 08
+http://server3.ftpbd.net/FTP-3/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023%E2%80%93%20%29/Season%2001%201080p%20Hindi/Farzi.S01E08.1080p.HEVC.WEB-DL.AAC.5.1.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 01
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E01.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 02
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E02.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 03
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E03.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 04
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E04.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 05
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E05.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 06
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E06.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Syndicate 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ731SDN0-DmHDB9YRRD3b3Qlykc7Wd0UIfnHYwkhF1CIRlhrtOkwR5Bw-G&s=10",Episode 07
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Syndicate%20%28TV%20Series%29%202022/Season%201%201080p/Syndicate.2022.S01E07.1080p.mp4
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg",Goldmines Movies
+http://172.105.123.238:18002/play/a01j
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wTCus2HY.png",All Time Movies
+http://172.105.123.238:18002/play/a00i
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sRdhm8W2Tn51d4O9liHRpiGnZYp1jbCE3cjt27cu9-9RNV0RqHB5JqIR&s=10",Gangubai Kathiawadi 2022
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Gangubai%20Kathiawadi%20%282022%29%201080p%20WEBRip/Gangubai.Kathiawadi.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXDVhGDnW_7aHwMvb-g9jfmKvRxBKiXlpgmqSfTPIXYMsVS6kwZxqXk1A&s=10",Lakshmi Bomb (2017)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/2017/Lakshmi%20Bomb%20%282017%29%201080p%20Hindi%20Dubbed/Lakshmi%20Bomb%20%282017%29%201080p%20Hindi%20Dubbed%20Movie%20-%20Lakshmi%20Manchu%2C%20Prabhakar.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://i.postimg.cc/7YxC7cps/1932.jpg",Bhool Bhulaiyaa (2007)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2007/Bhool%20Bhulaiyaa%20%282007%29%201080p%20BluRay/Bhool.Bhulaiyaa.2007.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU2Mjc4YWUtMjkzNC00ZDQ5LTkzZmYtOTMyY2NkODU4ZmU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",Ginny Weds Sunny (2020)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Ginny%20Weds%20Sunny%20%282020%29%201080p%20WEBRip/Ginny.Weds.Sunny.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 01
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E01.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 02
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E02.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 03
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E03.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 04
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E04.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 05
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E05.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 06
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E06.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 07
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E07.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 08
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E08.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 09
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E09.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 10
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E10.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 11
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E11.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 12
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E12.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 13
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E13.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 14
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E14.mp4
+#EXTINF:-1 group-title="SR BDIX Mirakkel S10" tvg-logo="https://i.ibb.co.com/rMrvJ3y/1920x7701417076520-webp.webp",Episode 15
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/TV%20Show/Mirakkel%20Akkel%20Challenger%202020%20%28Season%2010%29/Mirakkel%20Akkel%20Challenger%20S10%20E15.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2NjNhNzgtMzkxZi00OWU0LTgxYTAtODA3ZTA3M2ExNmVkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX1000_.jpg",Adv. Achinta Aich (2024)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Adv.%20Achinta%20Aich%20%28TV%20Series%202024-%29/Adv.%20Achinta%20Aich%20%282024%29S01%20Complete%20Bengali%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.postimg.cc/3RzcYcGf/image.png",Kaantaye Kaantaye (2024)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Web%20Series/Kaantaye%20Kaantaye%20%28TV%20Series%202024%29/Season%2001%201080p/Kaantaye.Kaantaye.S01%20Complete%20Bengali%20ORG%201080p%20WEB-DL%20x264%20ESubs.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP11
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E11.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP12
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E12.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP13
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E13.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP14
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E14.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%207.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%208.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%209.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Aapka Apna Zakir" tvg-logo="https://i.ibb.co/Gs6ttXW/a-AL.jpg",Episode S1EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Aapka%20Apna%20Zakir%20%28TV%20Series%202024-%29/Season%2001%201080p/Aapka%20Apna%20Zakir%20Episode%2010.1080p.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP01
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E01.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP02
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E02.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP03
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E03.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP04
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E04.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP05
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E05.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP06
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E06.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP07
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E07.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP08
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E08.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP09
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E09.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP10
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E10.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP11
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E11.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP12
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E12.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP13
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E13.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP14
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E14.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP15
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E15.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP16
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E16.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP17
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E17.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP18
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E18.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP19
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E19.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP20
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E20.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP21
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E21.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP22
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E22.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP23
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E23.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP25
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E25.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP27
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E27.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP28
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E28.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP29
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E29.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP30
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E30.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP31
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E31.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP32
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E32.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP33
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E33.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP34
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E34.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP35
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E35.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP36
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E36.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP37
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E37.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP38
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E38.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP39
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E39.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP40
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E40.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP41
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E41.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP42
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E42.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP43
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E43.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP44
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E44.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP45
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E45.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP46
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E46.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP47
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E47.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP48
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E48.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP49
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E49.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP50
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E50.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP51
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E51.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP52
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E52.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP53
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E53.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP54
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E54.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP55
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E55.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP56
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E56.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP57
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E57.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP58
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E58.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP59
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E59.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP60
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E60.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP61
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E61.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP62
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E62.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP63
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E63.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP64
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E64.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP65
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E65.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP66
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E66.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP67
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E67.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP68
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E68.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP69
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E69.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP70
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E70.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP71
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E71.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP72
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E72.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP73
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E73.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP74
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E74.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP75
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E75.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP76
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E76.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP77
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E77.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP78
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E78.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP79
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E79.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP80
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E80.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP81
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E81.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP82
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E82.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP83
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E83.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP84
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E84.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP85
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E85.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP86
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E86.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP87
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E87.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP88
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E88.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP89
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E89.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP90
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E90.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP91
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E91.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP92
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E92.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP93
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E93.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP94
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E94.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP95
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E95.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP96
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E96.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP97
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E97.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP98
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E98.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP99
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E99.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP100
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E100.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP101
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E101.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP102
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E102.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP103
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E103.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP104
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E104.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="Bigg Boss S17 (2023)" tvg-logo="https://i.ibb.co.com/VJrnRDv/3x4-1698514605046.jpg",S17EP105
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2017%201080p/Bigg.Boss.S17E105.1080p.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.ibb.co.com/xqh4n82/Screenshot-20240910-210657.jpg",Kidney (2023)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.Com]Kidney.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.ibb.co.com/Fhjwjb0/Screenshot-20240910-210554.jpg",Dukkhito (2024)
+https://rty67.b-cdn.net/upload/videos/2024/02/[Fibwatch.Com]Dukkhito.2024.720p.BongoBD.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnq1R32zlhR9-oyRRsEiwPvKgV6hVkXruLUWXURgtltq-3a0xiMqVjJBjZ&s=10",Bhalobasha Aaj Kal (2013)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.Com]Bhalobasha.Aaj.Kal.720p.CHORKI.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NjMGQxY2YtYWI3MS00NjY3LTgxMTMtYzhiNDM3OTE5YTVkXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_.jpg",Jaanbaaz (2019)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Jaanbaaz%20%282019%29%201080p/JaanBaaz%202019.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOfsLlirV42RNFYUvu4UXYBUR_Jimm86GXiufSsoWb2F01cdgTi__XJ9U&s=10",Yoddha: The Warrior (2014)
+https://rty67.b-cdn.net/upload/videos/2024/07/[Fibwatch.Com]Yoddha.2014.Bengali.Hoichoi.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqvvgjyKLn6fO4gSjno1hEuh0kbYjjUdhXgNrTL2al2zhrjLKId0r_MA&s=10",Salon (2024)
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]Salon.(2024).Bengali.Bongo.Short.Film.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlDjxRctAHhjrTMQDt7UIuNv4M_oBNou7JaXI5Th0zit07adUplDqvo9o&s=10",The Beauty Circus (2019)
+https://rty67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Beauty.Circus.(2022).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_X-lksjlYujeCzvo7rDoKzVdIbT0AorGlyb7dZeCYLEnbteE5s8O1mPo&s=10",Rajkumar (2024)
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Rajkumar.(2024).Bengali.BongoBD.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlNjdkMjgtZGY5NS00NDRmLTkwNGQtYjA5MjhhMDRhYTgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Floor Number 7 (2022)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Floor.No.7.(2022).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXzYsLvPbsP2ztf74khK7CZgW-OXFkiO2qJB22ZTaNzu3Eg4_AxqjRcmT&s=10",Jodi Ami Beche Firi (2022)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Jodi.Ami.Beche.Firi.(2022).S01E01-03.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDRuv_HdYBFQNUVV4G2wjgapMKILDlXcWJpcg1E4gtk-fQ9hrpcEDkO8&s=10",The Angry Birds Movie (2024)
+https://rty67.b-cdn.net/upload/videos/2024/05/[Fibwatch.Com]The.Angry.Birds.Movie.(2024).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRx3WWI7gp6ghInHckVDzp9REArfPesN-e40EQQgdg1JyKzWVPPGjDZI&s=10",The Amazing Spider-Man 2 (2024)
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]The.Amazing.Spider-Man.2.2014.Bangla.DUBBED.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFjNDdlZmUtYWMyNC00NmViLTkwYmUtYTQ0NmJkYmQ2MDhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Katmundu (2015)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Katmundu%20%282015%29%20Bengali%201080p/Katmundu%20%282015%29%201080p%20WEB-DL%20x264%20AAC%20EvAn.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQe0XMzYxmoSjo3dM-E-RXjyz2swv2y7FOW3H5zM4xqtkozRO4kpgHXY&s=10",Pornomochi (2018)
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]Pornomochi.2018.720p.HD.Rip.Bengali.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX9qoLK5fVYU_FDtzQQvTnM60B7X0v4mj9GqcgUyeAabSOAj5PMH2lKw&s=10",Window Connection (2014)
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Window.Connection.(2014).Bengali.Hoichoi.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKITW-uFOjBUtOTCYwoehRqaKJCc_HTNiFoXRfCmCvZF-tzdfKPtG02o&s=10",Nimki Phulki 2 (2021)
+https://rty67.b-cdn.net/upload/videos/2024/03/[Fibwatch.Com]Nimki_Phulki_2_2021_720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.ibb.co.com/kcQw2Ws/Overtrump-2023-S01-Bengali-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg",Overtrump (2023)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Overtrump.S01.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9x0ZsHQG5b8Zj77JhIeLUzvNpPAeD4HzZ_ehZuxIMNaZfa5dNvcp26PM&s=10",Indubala (2019)
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Indubala.(2019).S01.Bengali.WEB.DL.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RLhDZIpxG6Al0S2I8B49Rr6IuFkPHYsbx12AWNbI7LVMlQh7-C9VP9U&s=10",The Sarkari Karyalay S01 (2024)
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]The.Sarkari.Karyalay.(2024).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQzMzBlOTgtZjYzYy00OGVjLTg1ZDMtNTE2NWU1MDM1ZDZjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",Love Aaj Kal Porshu (2020)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Love%20Aaj%20Kal%20Porshu%20%282020%29%20720p%20WEBRip/Love%20Aaj%20Kal%20Porshu%20%282020%29%20Bengali%20Original%20720p%20AMZN%20WEBRip%20DD-5.1%20ESub%20x264%20-%20%28Shadow%29.mp4
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://assets.gadgets360cdn.com/pricee/assets/product/202409/Bench_Life_poster1_1725879966.jpg",Bench Life (2024) [Ban+Hin]
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Bench.Life.(2024).S01.Dual.Audio.[Bengali.Hindi].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 01
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E01%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 02
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E02%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 03
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E03%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 04
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E04%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 05
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E05%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 06
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E06%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 07
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E07%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Taqdeer S01 (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFkNGQ1NmUtZjcyNS00ZjM2LWJlODMtOWM4MWRkMTg0YTQxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",Episode 08
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/Season01/Taqdeer%20S01E08%20Hoichoi%20Originals%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://imageflix.cam/images/2022/03/26/50310273c6aa436f4ff699b46c2faba0.jpg",Padman (2018)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2018/Padman%20%282018%29%20Hindi%201080p/%5BTorrentCounter.to%5D.Padman.2018.Hindi.1080p.WEB-DL.x264.%5B2GB%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamuy9dqZ0UXmmYix8AA2KHUjD10E0vHIn0dAHPTEs8Taw0alYPkD7fZoc&s=10",Malupu-Turning Point (2023)
+https://rty67.b-cdn.net/upload/videos/2023/12/[Fibwatch.Com]Malupu.Turning.Point.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.postimg.cc/RFKqrmWp/Bagh-Bondi-Shingho-Bondi-2022-S01-Bengail-Binge-Web-Series-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg",Bagh Bondi Shingho Bondi (2022)
+https://rty67.b-cdn.net/upload/videos/2024/03/[Fibwatch.Com]Bagh.Bondi.Shingho.Bondi.(2022).S01.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.postimg.cc/nz0Gb10r/image.png",Tiger (2024)
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Tiger.2024.S01.COMPLETE.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUk5mcQ7rY8ogNH5SYNAEGDhyi_12EIvVHm3jlBsFB16VJaBGNw1NTdYf8&s=10",Adithya Varma (2023)
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Adithya.Varma.(2023).Bengali.Dubbed.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggG_pDbpfz6oVM5LWmaMRLyAwsr01rKHMh_iqs6-hWlJaG0Quj0QBuFp0&s=10",Kanhaiya Ek Yodha (2022)
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Kanhaiya.Ek.Yodha.(2022).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqovtpR2tKozIciihqQqwY-F5hoxzFMFc_B1FrsCQhMOtEBYrMxGVZAav&s=10",Swapnabaj (Soorarai Pottru) (2020)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Swapnabaj.2022.Bengali.Dubbed.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpZd9UcVrhIvlAg0UP_37PSSNE0F3lAkjfV3r3UFUuZxUofRm6JHkaCc&s=10",Tej I Love you (2024)
+https://rty67.b-cdn.net/upload/videos/2024/01/[Fibwatch.Com]Taj.I.Love.you.(2024).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTyq62u_U-emAR8_XaxCKIuvCXC_tCjQLEHmpF6ouMIKYNLaRGRH9vKQx&s=10",Natakam (2023)
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Natakam.(2023).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcxy5gfxkt9NysZz7YuH6jr7E_dhhLcKAA6sZihBFza8LsHdWCKdTGvs&s=10",Vaaranam Aayiram-Dui Purush (2023)
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Vaaranam.Aayiram-Dui.Purush.(2023).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUHh4zNCYQFqn7NT-XAti0Bprg_fjKDKpazua2RjQw_vp7chDraTSr4I&s=10",OK Jaanu-O Kadhal Kanmani (2023)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]OK.Jaanu-O.Kadhal.Kanmani.(2023).Bengali.Dubbed.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaboZOfqyOqtMv_jPUmLjExudhXf563f98AdApbBctUlmf8wnoG03zlZw&s=10",Shaan (2022)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Shaan.(2022).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LKmOHXgF32Q-M5yKQIdbtJMTgfbEDPfh2RJatrC9CJwVKV2hMv3GCvY&s=10",Mukunda-Shotru (2023)
+https://rty67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Mukunda.Shotru.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9X6rli_TAer_JGBwJVkeCUHw1Dl9exjOtcovdju-OtsnY2dgcolKyBSi&s=10",Velayudham-Shahenshah (2023)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Velayudham.Shahenshah.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_Dnr2YAvMPgbmZONOF58pRBcEGiM46KXgou_sMi946PbLTtFNDNBxMk&s=10",Ragada-Dhongsho (2023)
+https://rty67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Ragada.Dhongsho.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkogIZh2PWgCYv3muk7EWKg_Dx17Wp9BqgLRww0AUTmFCn0l_CPdxgN2o&s=10",Kadaikutty Singam-Bagher Baccha (2022)
+https://rty67.b-cdn.net/upload/videos/2023/12/[Fibwatch.Com]Kadaikutty.Singam.Bagher.Baccha.(2022).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKxe4ZKeQDL_oM0vq2Bu725HZhrTsotNheWyi2FSQ5GooakzDAlSycqox&s=10",Kotigobba 2-Ekai Eksho (2023)
+https://rty67.b-cdn.net/upload/videos/2023/12/[Fibwatch.Com]Kotigobba.2.Ekai.Eksho.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27OlLtl0Hj5F-e9DuiHOtTbQfh5TrC88uFNXDZmdvfRSW1UILZa_7Kugw&s=10",Rangula Ratnam-Bhalobashar Rong (2023)
+https://rty67.b-cdn.net/upload/videos/2023/09/[Fibwatch.Com]Rangula.Ratnam.Bhalobashar.Rong.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigF95zslLk_RAx0b9_F3mopfjUji3dZ-WZkGhtms2Kh6qpbW2-o9E5pyA&s=10",Maayavan-Project Maayajal (2023)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Maayavan-Project.Maayajal.(2023).Bengali.Dubbed.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd97DVQJGqZBK2BuuqV-MHiVop7KJ6Tg0FPv24Eq3fyXr2ZEZc302NTT8&s=10",Anniyan – Stranger – Amar Adalat (2023)
+https://rty67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Anniyan-Amar.Adalat.Stranger.(2023).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWP_7EI8onw9NhMTf97bkdQo5FVeqvwS0GHWaRfGKPDdaPdXYHrUn6UQ&s=10",Ishtangaa-Icche Ghuri (2023)
+https://rty67.b-cdn.net/upload/videos/2023/09/[Fibwatch.Com]Ishtangaa-Icche.Ghuri.(2023).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCwy5L4u6OMwsHLJD-8CAT_Z9HpqgGRA0xmoTC0UYmG17DSDKuVC7KMM&s=10",Vanam-Ovishap (2023)
+https://rty67.b-cdn.net/upload/videos/2023/07/[Fibwatch.Com]Vanam-Ovishap.(2023).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKridL1QRj6fR_H5osiOeVUWpy_Abur0MTdS44lBADU-2Hsd1ifOnhAI4&s=10",Kabali (2022)
+https://rty67.b-cdn.net/upload/videos/2023/12/[Fibwatch.Com]Kabali.(2022).Bengali.Dubbed.ORG.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJeXS7fpCC8bUD8cI_agC_QIN1pFeXEIpFIlrHcEpSO7pCZnj_zTWhhM&s=10",Poramon 2 (2018)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]PoraMon.2.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qjr0Myrm5-1in3GGjU1TrRO_f45fgi0cchtQKMLBgJ0LuqN3xAgv27zm&s=10",Spider-Man 3 (2024)
+https://rty67.b-cdn.net/upload/videos/2024/01/[Fibwatch.Com]Spider-Man.3.(2024).Bengali.Dubbed.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYKoHnKmUe4ARLL-WoRkBIqY03upL2lNJtyIkTnl5tQippl5ajkJ5SeY&s=10",Spider-Man: Homecoming (2024)
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Spider-Man.Homecoming.2024.Bangla.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmS7G679JCvFMVLiZDwZCzqLIGvH2UNnmST64UzbIdPQXnUFzJ64wIJg&s=10",Spider-Man: Far From Home (2019)
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Spider-Man.Far.From.Home.2019.Bangla.DUBBED.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cdJnlaVdpjusKBgy8cqC94DTnngbQPbBhk__KvdvO8crfhX1KWt_OBuu&s=10",Casino (2023)
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Casino.(2023).Bengali.Bongo.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://i.postimg.cc/mgkz2hYk/image.png",Sector 36 (2024) 1080p
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Sector.36.(2024).Hindi.NetFlix.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://i.postimg.cc/JnTythNp/image.png",Nikamma (2022)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Nikamma%20%282022%29%20Hindi%201080p%20WEB-DL/Nikamma.2022.1080p.NF.WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE4MjExNTUtYTc2MC00ZDAwLWFjNDktZjM1MTkxYjVjZDlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Majnu (2013)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Majnu%20%282013%29%20Bengali%201080p%20WEB-DL/Majnu.2013.1080p.WEB-DL.DDP2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/haami-2-et00337169-1671602726.jpg",Haami 2 (2022)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Haami%202%20%282022%29%20Bengali%201080p%20WEB-DL/Haami%202%20%282022%29-Bengali%20%201080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://i.postimg.cc/QNzYXsnF/3g-N32gdxd-Xd96-Usl1v-Ezg7-RFMQ7.jpg",Gargi (2022)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/Gargi%20%282022%29%201080p%20WEB-DL%20%5BDual%20Audio%5D/Gargi.%282022%29.Dual.1080p.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/fatafati-et00348635-1675686379.jpg",Fatafati (2023) FTP
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Fatafati%20%282023%29%20Bengali%201080p%20WEB-DL/Fatafati%20%282023%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNP_NlmJBP8M8KAdBm1qZYGHymjT2V8lyM7QK9Cmz--B51vsEvAk-iq-9&s=10",Victim – Who is next? (2022) S01
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Victim.(2022).S01.Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://images.slivcdn.com/videoasset_images/saturdayafternoon_portrait_thumb.jpg?w=360&q=low",Saturday Afternoon (2023) [Bengali-Hindi]
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Saturday.Afternoon.(2023).Dual.Audio.[Bengali.Hindi].720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-T2asyMgyUG4OfJtfrDZMGxudSXOyojHUhBBuyNBIqJVJHP2dSdGuPk&s=10",Jehanabad Of Love and War (2023) S01
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Jehanabad.Of.Love.and.War.2023.S01.Dual.Audio.Hindi.ORG.720p.new.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wk4TPtnkNVe7A3MY8vq1ZeRw5_O7dzKzXm5x2xrvk5wjXE7C818wL4ee&s=10",Family Aaj Kal (2024) S01
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Family.Aaj.Kal.(2024).S01.Dual.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6Ewa83v9IulRczOz0AhokMyQjoPMVEFhChv5RGhGs6E-2RqFfZgw26ve&s=10",Kathmandu Connection (2021) S01
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Kathmandu.Connection.(2021).S01.720P.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdmNjI5YmYtMWY5YS00M2NlLTk4MmYtNzkyZTBkNDkzYjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Kathmandu Connection (2022) S02
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Kathmandu.Connection.(2022).S02.720P.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWKhZqZt2h7BM75XWJaoj_bY7ZG8UM8DwByFg2vUT4hkdmIeHa3EmuOu9&s=10",Gullak (2024) S04
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Gullak.(2024).S04.Dual.Audio.[Bengali.Hindi].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLps_SyunqQ6bonjKLbWty7JIzYWDJHivb0Lii_53vQVd2LdkY7gjFB8-m&s=10",Varshangalkku Shesham (2024)
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Varshangalkku.Shesham.(2024).Uncut.Dual.Audio.[Hindi.Malayalam].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM3ZWZjOTUtODVkZC00ZjlhLTkwNjAtZTY5NDk1YzNlNTE4XkEyXkFqcGc@._V1_.jpg",36 Days (2024) S01
+https://rty67.b-cdn.net/upload/videos/2024/07/[Fibwatch.Com]36.Days.(2024).S01.Dual.Audio.[Bengali.Hindi].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3YFqN7e6yPR8w0CItX9Ls41ZkjJ5zrSjR6EsC5vMKy1kQ3dlVCMgUjY&s=10",Malayalee From India (2024)
+https://rty67.b-cdn.net/upload/videos/2024/07/[Fibwatch.Com]Malayalee.From.India.(2024).Dual.Audio.[Bengali.Hindi].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowOTUmyh0mSJmsqrAh1TBeixIWPlVnr2X78y3Nk4RyrWhYpoXte8HPXU&s=10",Meme Boys (2022) S01
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Meme.Boys.(2022).S01.Bengali.SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1MNIqHkndqEsYUVdqhp5LZ0gJlfGuwR5KsRwezPJhB-xL6WBW60y9SGRe&s=10",Brinda (2024) S01
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]Brinda.(2024).S01.Dual.720p.mkv
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaNek6iFSrocfbXY1xpJpe15Bcp_425MJvVWVt7J017exWwq_7_sObks&s=10",Turbo (2024)
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]Turbo.(2024).Dual.Audio.[Bengali.Hindi].SonyLiv.WEB.DL.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_UTrapP2tEEyZiy4yokb4K_aMA_v9dUid7nDJBd481n69h7P53NgVH0&s=10",Maharani (2021) S01
+https://rty67.b-cdn.net/upload/videos/2024/08/[Fibwatch.Com]Maharani.(2021).S01.Dual.Audio.[Bnegali.Hindi].WEB.DL.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://assets.gadgets360cdn.com/pricee/assets/product/202407/Tanaav_Season_2_p_1720697091.jpg",Tanaav (2024) S02
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Tanaav.(2024).S02.Dual.Audio.[Bengali.Hindi].SonyLiv.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://images.justwatch.com/poster/98993671/s718/season-1.jpg",Mirzapur (2018) S01
+https://rty67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Mirzapur.S01.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://images.justwatch.com/poster/216332297/s718/season-2.jpg",Mirzapur (2020) S02
+https://rty67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Mirzapur.2020.S02.Hindi.720.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQfHWNCL6E4X2RCM8LykqRIOngl9zXGAKS06wu5Kj8enXI01KpwlXrumD&s=10",Mirzapur (2024) S03
+https://rty67.b-cdn.net/upload/videos/2024/07/[Fibwatch.Com]Mirzapur.(2024).S03.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVr13kH745Nvu0W_U-9QljLd1h99-7E5VfkUkovTipaLBXRMPuvvrUUA4r&s=10",Adim (2024)
+https://rty67.b-cdn.net/upload/videos/2024/05/[Fibwatch.Com]Adim.(2024).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmZjRhZWItNDg1OS00MzljLTgxOWItNGRiOTc3NDllYzhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Golam Mamun (2024)
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Golam.Mamun.(2024).S01.Bengali.Hoichoi.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npNQf0AuEIGcWqyp0ETnVllUFgM.jpg",Sahosh (2022)
+https://rty67.b-cdn.net/upload/videos/2024/03/[Fibwatch.Com]Sahosh.(2022).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI3Yjk4MjAtNDY0OC00ZDMzLWExOWYtYTE4NDg5MjUyOTJjXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_.jpg",Something Like an Autobiography (2023)
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Something.Like.an.Autobiography.(2023).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_f8BOl-nKJBlvs7pxgtsxZ1BLVweGX7E5z4QmRD9rToMqst1wwNF9uhM&s=10",Scooty (2022)
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Scooty.(2022).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVjNmFiYjUtMWMyZC00NGUyLTg1OGMtODkxNThlMWExYmE0XkEyXkFqcGdeQXVyMzg2ODE3NTQ@._V1_FMjpg_UX1000_.jpg",Prem Puran (2022)
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Prem.Puran.(2022).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Zr1VYUBSkLcU3Gs4N7xq5vExavC_1EOaBTnGdbXyi2jLEilKXlGXiZU&s=10",Antonagar (2023)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.Com]Antonagar.(2023).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFV5VdHLjuEXTk5Ed35nbBfz3KzQ9bOrNKheEhv8clrRgFEkgnngqSJ8I&s=10",Patalghor (2023)
+https://rty67.b-cdn.net/upload/videos/2023/07/[Fibwatch.Com]Patalghor.(2023).Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.postimg.cc/ydXDVsrq/image.png",Virus (2023) 720p
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Virus.(2023).S01.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.ibb.co/9ZZ2q0x/Guti.jpg",Guti (2023)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Guti.(2023).S01.Bengali.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGqyh1ZClOAmmgg4ezB14Gf570ogv2GKcd3ZWV3Z-zcS4HqvhIdVY_Hw&s=10",Happy Birthday (2022)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Happy.Birthday.(2022).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOZbtiQSl91WgDVbsfM1oDM8zJZ.jpg",Unish20 (2023)
+https://rty67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Unish20.(2023).Bengali.WEB-DL.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wmqZVvdEi_vOWCKZUWap065LQ12zDcw6PLvnjFTinQD_QKOMlXJNMnrx&s=10",Shob Bhooturey (2017)
+https://rty67.b-cdn.net/upload/videos/2024/04/[Fibwatch.Com]Shob.Bhooturey.2017.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP15
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E15.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX Khatron Ke Khiladi S14" tvg-logo="https://i.ibb.co.com/YZb1NJq/image.png",Episode S14EP16
+http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Fear%20Factor%20Khatron%20Ke%20Khiladi%20%28TV%20Series%202008%29/Season%2014/Khatron.Ke.Khiladi.S14E16.1080p.WEB-DL.AAC2.0.x264.ESub.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rQyRvnn7LvdA65qB49GDyEzYVf5dlyJBj1w3ZdUM2JDxs2AijAr83KM&s=10",Master (2021) 4K FTP
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Master%20%282021%29%202160p%20%284K%29%20%5BHindi%20-%20Tamil%5D/Master.2021.2160p.SDR.AMZN.WEB-DL.Hindi.Tamil.DDP.5.1.H.265.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Y4opYBdL_VrJaWKea3xS5siAaU4wthNUVKVqf7ciTCNXJpg-upabsRo&s=10",Baahubali: The Beginning (2015)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Baahubali%20The%20Beginning%20%282015%29%20BluRay%201080p/Baahubali.The.Beginning.2015.1080p.BluRay.x264.mp4
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Q-kYidoj5ElXvKwIxAT2A-xwXzoA-OTSFcNz2s2xxal4iYyNpj-gaw&s=10",Baahubali 2: The Conclusion (2017)
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Baahubali%202%20The%20Conclusion%20%282017%29%20BluRay%201080p/Baahubali.2.The.Conclusion.2017.1080p.BluRay.x264.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/ogo-bideshini-et00344529-1668168870.jpg",Ogo Bideshini (2022)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Ogo%20Bideshini%20%282022%29%20Bengali%201080p%20WEB-DL/Ogo.Bideshini.2022.1080p.JC.WEB-DL.Bengali.AAC2.0.H.264.mp4
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2023/02/9/1675965382670_1098x16264_3x4Images.jpg",Gobhir Joler Maach (2023)
+https://rty67.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Gobhir.Joler.Maach.2023.S01.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk4MzIzZGQtNmQwNC00YzFlLTgwMjEtM2VmNWQ2NGQ0YThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Gobhir Joler Maach (2024)
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Gobhir.Joler.Maach.(2024).S02.Bengali.Hoichoi.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IyM2YajRokfE9S_UUaoMNuZFzb0YjWIDltTKQhHpQ1qjg6b8PYvNKQk&s=10",Hotel Relax (2023) 1080p
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Hotel.Relax.S01.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://i.ibb.co.com/TBdM39G/images.jpg",Shikari (2016) 720p
+https://rty67.b-cdn.net/upload/videos/2023/07/[Fibwatch.com]Shikari.(2016).Bengali.720p.new.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://i.ibb.co.com/hmFVP1S/images-1.jpg",Shikari (2016) 1080p
+https://rty67.b-cdn.net/upload/videos/2023/07/[Fibwatch.com]Shikari.(2016).Bengali.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVmOTZmNmQtZTE3Zi00MzY3LWFiZDAtNTQ5NmZkNjMyZGE3XkEyXkFqcGdeQXVyMjQwODkxNzg@._V1_.jpg",Bhaijaan Elo Re (2018) 1080p
+https://rty67.b-cdn.net/upload/videos/2023/07/[Fibwatch.Com]Bhaijaan.Elo.Re.(2018).Bengali.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-EhhgF5iQZF5y8f8XAimuVBWFNfFEwpNuUZGTjN-If-_rjq44bS3uxg&s=10",Chander Pahar (2013)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Chander%20Pahar%20%282013%29%20Bengali/Chander%20Pahar%20%282013%29%20Bengali%201080p%20WEBRip.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvqmsVLOyda-DnsRZrVLScl0yxSPMTytHbkG4vp6hkXVC3bKSUEblCIvX&s=10",Amazon Obhijaan (2017)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Amazon%20Obhijaan%20%282017%29%201080p/Amazon.Obhijaan.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-KnightKing.mp4
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNv2DKruzMSwCM5OOkdOVK665FOMu2kBSPfWbOZK2EmeYWdirRlBdfqw&s=10",Password (2019)
+https://rty67.b-cdn.net/upload/videos/2023/05/[Fibwatch.Com]Password.(2019).Bengali.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxEIOY9pOEkD8f4CaeVwkrtFb9fxvEIPmjzP45Q8FY0LolTBd98ZwYec&s=10",Password (2019)
+https://rty67.b-cdn.net/upload/videos/2023/10/[Fibwatch.Com]Password.(2019).Bengali.WEB.DL.720P.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HcccHnSyUnHFYdZm3EfozkVhWh5ioDSyew3fA61dEBNOjX96KuE01J7V&s=10",Female 4 (2024) 1080p
+https://rty67.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Female.4.(2024).1080p.mkv
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-F_SJh721i9U0DdGL_C8AwYSVKHSMckGfsXDT3uQYfoGBy3SoXDZQrWw&s=10",Har Din Diwali (2019) Goldmines
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Prati.Roju.Pandage.(Har.Din.Diwali).(2019).Hindi.Dubbed.720p.HDRip.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://i.ibb.co.com/S3cXBWh/IMG-9255.jpg",Toofan (2024) 1080p Raw Hoichoi
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Toofan.2024.Bengali.Raw.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 01
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E01%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 02
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E02%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 03
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E03%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 04
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E04%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 05
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E05%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 06
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E06%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S01 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVo33LyLuXLd8pGu2dLfAdqMVrEWb5tCXW8C3kl2Mqy2k-r-5nyHh9w_Jp&s=10",Episode 07
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.01/Karagar%202022%20Bengali%20S01E07%201080p%20WEB-RIP%20H265%20AAC2.0-%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 01
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E01%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 02
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E02%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 03
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E03%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 04
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E04%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 05
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E05%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 06
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E06%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Karagar S02 (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvEZTzyya_z-mXidk__n1YtMQ1Wkl-AYZETt4g83KxkNhXCXaIG4jCSlJ&s=10",Episode 07
+http://103.153.175.254/NAS1/NAS2/TV_Web_Series/Bangla_Web_Series/Karagar%20%28TV%20Series%202022%E2%80%93%20%29/Season.02/Karagar%202022%20Bengali%20S02E07%201080p%20WEB-RIP%20H265%20HEVC%20AAC2.0%20-%20%5BHasan%5D.mkv
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOj2gamcXRcHs5Wj09nH7BLmWWgBv1-UFzGifFEDubOQ5cekoqjy3zZds&s=10",Chennai Express (2013)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Chennai%20Express%20%282013%29%201080p%20BluRay/Chennai.Express.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="SR BDIX Kolkata" tvg-logo="https://i.postimg.cc/NMS1cNFK/Yuddho-POSTER.jpg",Yuddho (2005)
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282005%29/Yuddho%20%282005%29%201080p/Yuddha.2005.WEB-DL.mp4
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://image.tmdb.org/t/p/original/kf9hLK41XcPFT33f3ahDeYIvXvJ.jpg",Hawa (2022)
+https://rty67.b-cdn.net/upload/videos/2023/08/[Fibwatch.Com]Hawa.(2022).Bengali.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Hindi Web" tvg-logo="https://i.postimg.cc/L85nTVNY/1725883958107-Thalavan-hindi-set2-portrait-thumb-New-Movie.jpg",Thalavan (2024) [Hin+Ban]
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Thalavan.(2024).Dual.720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LpSkljdUP3gXG_M_W-0tlg56e8MIAXbv9xpfKQW4lfs3Sfi2E0mRMcg&s=10",Shesh Chithi (2022)
+https://rty67.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Shesh.Chithi.(2022).720p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvcaJQLZnFDWGlCs7FpEGU1dLBVi7yYW5Th3t6nt_O_J2gHpgTqo-_SC-&s=10",Inttelligent (2023)
+https://rty67.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Inttelligent.(2023).Bengali.Dubbed.ORG.1080p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Dubbed" tvg-logo="https://moviebaaz.pro/wp-content/uploads/2023/06/images5-203x300.jpg",Yevadu-Revenge (2023)
+https://rty67.b-cdn.net/upload/videos/2023/06/[Fibwatch.com]Yevadu.Revenge.(2023).Bengali.Dubbed.ORG.720p.mkv
